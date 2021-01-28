@@ -1,6 +1,8 @@
-### Hi there 👋
+### Eae, Meu Nome e Jonathan👋
+Desenvolvedor Front End, Brasileiro Autodidata,
+Toda Minha Aprendizagem Vem De Livros é Cursos,
+Tenho 15 Anos
 
-<!--
 **Jonathan-A-Soares/Jonathan-A-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
