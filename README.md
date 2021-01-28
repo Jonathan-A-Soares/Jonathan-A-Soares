@@ -6,7 +6,7 @@
 - 🔧  Estou Sempre Formas De Criar Coisas Novas 
 - 📦  Estou Disponivel Para Ajudar/Trabalhar
 - 📧  Contate Me: jonathanamericosoares@gmail.com
-- 🎓  Escolaridade Cursando Ensino Meio
+- 🎓  Escolaridade: Cursando Ensino Meio
 
 
 ![Jonathan-A-Soares GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathan-A-Soares&show_icons=true&theme=radical)
