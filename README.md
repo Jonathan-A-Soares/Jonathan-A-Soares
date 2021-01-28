@@ -1,17 +1,15 @@
 ### Eae, Meu Nome e Jonathan👋
-Desenvolvedor Front End, Brasileiro Autodidata,
-Toda Minha Aprendizagem Vem De Livros é Cursos,
-Tenho 15 Anos
+**Desenvolvedor Front End, Back End, Brasileiro Tenho 15 Anos Sou Autodidata,
 
-**Jonathan-A-Soares/Jonathan-A-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡  Desenvolvo Pojetos Para Fins De Aprendizagem 
+- 🔬  No Momento Estou Aprofundando em C/C++ & Desenvolvimento BackEnd 
+- 🔧  Estou Sempre Formas De Criar Coisas Novas 
+- 📦  Estou Disponivel Para Ajudar/Trabalhar
+- 📧  Contate Me: jonathanamericosoares@gmail.com
+- 🎓  Escolaridade Cursando Ensino Meio
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Jonathan-A-Soares GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathan-A-Soares&show_icons=true&theme=radical)
+### 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-A-Soares&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
