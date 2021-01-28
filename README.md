@@ -1,5 +1,5 @@
 ### Eae, Meu Nome e Jonathan👋
-** Desenvolvedor Front End, Back End, Brasileiro Tenho 15 Anos Sou Autodidata,
+## Desenvolvedor Front End, Back End, Brasileiro Tenho 15 Anos Sou Autodidata,
 
 - ⚡  Desenvolvo Pojetos Para Fins De Aprendizagem 
 - 🔬  No Momento Estou Aprofundando em C/C++ & Desenvolvimento BackEnd 
