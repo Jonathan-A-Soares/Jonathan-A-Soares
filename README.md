@@ -3,7 +3,7 @@
 
 - ⚡  Desenvolvo Pojetos Para Fins De Aprendizagem 
 - 🔬  No Momento Estou Aprofundando em C/C++ & Desenvolvimento BackEnd 
-- 🔧  Estou Sempre Formas De Criar Coisas Novas 
+- 🔧  Estou Sempre Procurando Formas De Criar Coisas Novas 
 - 📦  Estou Disponivel Para Ajudar/Trabalhar
 - 📧  Contate Me: jonathanamericosoares@gmail.com
 - 🎓  Escolaridade: Cursando Ensino Meio
