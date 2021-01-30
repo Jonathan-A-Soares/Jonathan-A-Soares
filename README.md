@@ -2,7 +2,7 @@
 ## Desenvolvedor Front End, Back End, Brasileiro Tenho 15 Anos Sou Autodidata
 
 - ⚡  Desenvolvo Pojetos Para Fins De Aprendizagem 
-- 🔬  No Momento Estou Estudando Java Para Desenvolvimento Mobile
+- 🔬  No Momento Estou Estudando Kotlin Para Desenvolvimento Mobile
 - 🔧  Estou Sempre Procurando Formas De Criar Coisas Novas 
 - 📦  Estou Disponivel Para Ajudar/Trabalhar
 - 📧  Contate Me: jonathanamericosoares@gmail.com
