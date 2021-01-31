@@ -15,13 +15,8 @@
 - Relatorio científico -> https://docs.google.com/document/d/1m4uSZ6_OnpgmbwMFHpCVL7ZHx3LsDiMjJn5WW-mK1_o/edit
 - **Carro Eletrico Com Inteligencia Artificial** -> https://github.com/Jonathan-A-Soares/Ana
 - Relatorio científico -> https://docs.google.com/document/d/1H0gTmcQVeO1dHby2NTPm3AzWvCA_WmMNi2MruDDabQ8/edit
-
-- ⚡  Desenvolvo Pojetos Para Fins De Aprendizagem 
-- 🔬  No Momento Estou Estudando Kotlin Para Desenvolvimento Mobile
-- 🔧  Estou Sempre Procurando Formas De Criar Coisas Novas 
-- 📦  Estou Disponivel Para Ajudar/Trabalhar
 - 📧  Contate Me: jonathanamericosoares@gmail.com
-- 🎓  Escolaridade: Cursando Ensino Meio
+
 
 
 ![Jonathan-A-Soares GitHub Status](https://github-readme-stats.vercel.app/api?username=Jonathan-A-Soares&show_icons=true&theme=tokyonight)
