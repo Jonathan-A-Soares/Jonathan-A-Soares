@@ -9,6 +9,6 @@
 - 🎓  Escolaridade: Cursando Ensino Meio
 
 
-![Jonathan-A-Soares GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathan-A-Soares&show_icons=true&theme=tokyonight)
+![Jonathan-A-Soares GitHub Status](https://github-readme-stats.vercel.app/api?username=Jonathan-A-Soares&show_icons=true&theme=tokyonight)
 
 <img aling="left" alt="estatus do Git-Hub de Jonathan-A-Soares" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-A-Soares&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight"/>
