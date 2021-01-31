@@ -9,7 +9,6 @@
 - 🎓  Escolaridade: Cursando Ensino Meio
 
 
-![Jonathan-A-Soares GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathan-A-Soares&show_icons=true&theme=radical)
+![Jonathan-A-Soares GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathan-A-Soares&show_icons=true&theme=tokyonight)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-A-Soares&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img aling="left" alt="estatus do Git-Hub de Jonathan-A-Soares" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-A-Soares&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight"/>
