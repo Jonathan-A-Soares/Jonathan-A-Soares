@@ -11,9 +11,9 @@
   Agora Em 2021 Minhas Metas são Aprofundar O Maximo Em Kotlin Para Desenvolvimento Mobile
   E Desenvolver Aplicativos  
    
-#- PaperSound ->https://github.com/Jonathan-A-Soares/papersound
+- PaperSound ->https://github.com/Jonathan-A-Soares/papersound
 - https://docs.google.com/document/d/1m4uSZ6_OnpgmbwMFHpCVL7ZHx3LsDiMjJn5WW-mK1_o/edit
-#- Carro Eletrico Com Inteligencia Artificial-> https://github.com/Jonathan-A-Soares/Ana
+- Carro Eletrico Com Inteligencia Artificial-> https://github.com/Jonathan-A-Soares/Ana
 - https://docs.google.com/document/d/1H0gTmcQVeO1dHby2NTPm3AzWvCA_WmMNi2MruDDabQ8/edit
 
 - ⚡  Desenvolvo Pojetos Para Fins De Aprendizagem 
