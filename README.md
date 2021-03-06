@@ -10,6 +10,7 @@
   Em 2020 Comecei Estudar Desenvolvimento Android Mas Não Aprofundei Muito no Assunto
   Agora Em 2021 Minhas Metas são Aprofundar O Maximo Em Kotlin Para Desenvolvimento Mobile
   E Desenvolver Aplicativos  
+  
    ---
 - **PaperSound** ->https://github.com/Jonathan-A-Soares/papersound
 - Relatorio científico -> https://docs.google.com/document/d/1m4uSZ6_OnpgmbwMFHpCVL7ZHx3LsDiMjJn5WW-mK1_o/edit
