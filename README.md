@@ -7,8 +7,7 @@
   No Final de 2018 Comecei Estudar Desenvolvimento web utilizando Html Css
   Ja para final de 2019 Contibui Para Projeto Em Grupo Com Colegas De Uma Rede Social "PaperSound",
   Que Foi Apresentado Em Uma Feira de Ciências e Tecnologia Organizada pela ETE FMC "Projete 2019",
-  Em 2020 Comecei Estudar Desenvolvimento Android Mas Não Aprofundei Muito no Assunto
-  Agora Em 2021 Minhas Metas são Aprofundar O Maximo Em Kotlin Para Desenvolvimento Mobile
+  Em 2020 Comecei Estudar Desenvolvimento Android 
   E Desenvolver Aplicativos  
   
    ---
