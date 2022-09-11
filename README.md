@@ -1,5 +1,5 @@
 ### Eae, Meu Nome e Jonathan👋
-## Desenvolvedor Junior Brasileiro, Tenho 16 Anos 
+## Desenvolvedor Junior Brasileiro, Tenho 17 Anos 
   Comecei a Estudar Com Eletronica aos 8 anos E Me Apaxonei por Engenharia Eletrônica,
   Depois de 5 anos Fui Apresentado a Linguagem de Progamaçao Python3, Junto com Meus Colegas 
   Contribui Para um Projeto em Grupo De Um Carro Eletrico Com Inteligencia Artificial "Vector"
