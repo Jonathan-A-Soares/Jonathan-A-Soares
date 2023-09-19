@@ -1,6 +1,7 @@
-### Eae, Meu Nome e Jonathan👋
-## Desenvolvedor Junior Brasileiro, Tenho 18 Anos 
-#### Cusando Engenharia Eletrônica e de Telecomunicações
+## Eae, Meu Nome e Jonathan👋
+### Desenvolvedor Junior Brasileiro, Tenho 18 Anos 
+### **Cusando Engenharia Eletrônica e de Telecomunicações** Universidade Federal de Uberlândia - Patos de Minas
+
   
   
    ---
