@@ -1,12 +1,6 @@
 ### Eae, Meu Nome e Jonathan👋
-## Desenvolvedor Junior Brasileiro, Tenho 17 Anos 
-  Comecei a Estudar Com Eletronica aos 8 anos E Me Apaxonei por Engenharia Eletrônica,
-  Depois de 5 anos Fui Apresentado a Linguagem de Progamaçao Python3, Junto com Meus Colegas 
-  Contribui Para um Projeto em Grupo De Um Carro Eletrico Com Inteligencia Artificial "Vector"
-  Que Foi Apresentado Em Uma Feira de Ciências e Tecnologia Organizada pela ETE FMC "Fecete 2018",
-  No Final de 2018 Comecei Estudar Desenvolvimento web utilizando Html Css
-  Ja para final de 2019 Contibui Para Projeto Em Grupo Com Colegas De Uma Rede Social "PaperSound",
-  Que Foi Apresentado Em Uma Feira de Ciências e Tecnologia Organizada pela ETE FMC "Projete 2019",
+## Desenvolvedor Junior Brasileiro, Tenho 18 Anos 
+#### Cusando Engenharia Eletrônica e de Telecomunicações
   
   
    ---
